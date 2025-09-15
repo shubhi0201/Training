@@ -1,0 +1,43 @@
+MySQL notes
+
+data is stored in database.
+files consist of sheet and those sheets called records.
+
+DBMS
+
+a collection of programs which enable users to access database, manipulate data, and represent data
+a texhnology to store and retrive data with utmost efficiency along with appropriate security mesures.
+
+TYPES
+1. Heirarchical
+2. Relational DBMS
+it is based on relational model introduced by E.F. Codd.
+Realtional database allow us to dea; with different time in diff ways 
+Data can be access through model sql
+normalization is possible
+
+3. Network 
+4. Ooject oriendted DBms
+6. NoSQL
+7. New Sql
+
++ Field 
++ Record or row
+   a row of  table
+   it reffered as tupple
++ Null Value
+
++ Data Integrity
+
+   overall accuracy , completeness and consistency 
+   ensure data is safe from any outside forces
+
+
+Types
+Entity Integrity
+	no duplicates
+Domain Integrity
+My sql is rdms software
+distincts is use to remove the duplicates
+aggricate function
+- many input one output
